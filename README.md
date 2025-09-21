@@ -47,6 +47,4 @@ This repository is a working implementation derived from the Bachelor's thesis:
 - This implementation uses spectrogram/MFCC-based features converted to an image-like
   shape to reuse ImageNet-pretrained VGG16. You can adapt model.py to other architectures.
 
-## License
-MIT
->>>>>>> ac8a96d (Initial commit with project files)
+
