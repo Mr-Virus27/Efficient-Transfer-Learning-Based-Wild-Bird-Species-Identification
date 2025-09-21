@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Efficient-Transfer-Learning-Based-Wild-Bird-Species-Identification
 This project uses transfer learning with pre-trained CNNs to efficiently identify wild bird species from images. By leveraging existing models, it achieves high accuracy with limited data, reducing training time and computational resources. The system aids wildlife monitoring, research, and conservation efforts.
 =======
@@ -40,7 +39,6 @@ This repository is a working implementation derived from the Bachelor's thesis:
    ```
    python src/app.py
    ```
-   Then open http://127.0.0.1:5000 to upload an audio file and see predictions.
 
 ## Notes
 - The actual Kaggle BirdCLEF dataset is large and not included. Instead, add a small sample
